@@ -1,0 +1,11 @@
+{
+    "name": "bitcoincudanbulucu",
+    "version": "1.0.0",
+    "description": "cudan adresi bulur knk",
+    "main": "index.js",
+    "dependencies": {
+        "bip39": "^3.0.2",
+        "bitcoinjs-lib": "^5.2.0",
+        "node-telegram-bot-api": "^0.61.0"
+    }
+}
