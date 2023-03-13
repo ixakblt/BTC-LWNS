@@ -32,6 +32,4 @@ fs.writeFileSync(dosyaAdi, mnemonic, (err) => {
 });
 
   }
-
-
 }
